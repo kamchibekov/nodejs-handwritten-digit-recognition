@@ -1,0 +1,21 @@
+{
+  "name": "handwritten-digits",
+  "version": "1.0.0",
+  "description": "Simple AI program to recognize handwritten digits",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "AI",
+    "handwritten",
+    "digit",
+    "nodejs"
+  ],
+  "author": "Adilet Kamchibekov",
+  "license": "ISC",
+  "dependencies": {
+    "jpeg-js": "^0.4.4"
+  }
+}
